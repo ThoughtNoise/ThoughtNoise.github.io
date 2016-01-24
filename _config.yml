@@ -4,5 +4,5 @@ markdown: kramdown
 url: http://ThoughtNoise.github.io
 title: ThoughtNoise
 tagline: A place to collect project ideas
-description: My awesome new site
+description: Project idea collection
 paginate: 5
